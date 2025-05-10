@@ -44,7 +44,7 @@ private let apiKey = "YOUR_API_KEY"
 
 | Huvudvy | Detaljvy |
 |--------|----------|
-| ![main](Screenshots/Mainview.PNG) | ![detail](Screenshots/DetailView.PNG) |
+| ![main](screenshots/main.png) | ![detail](screenshots/detail.pnh) |
 
 
 
