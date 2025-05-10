@@ -42,9 +42,9 @@ private let apiKey = "YOUR_API_KEY"
 
 ## 📸 Skärmdumpar
 
-| Sök | Detaljer | Sparade betyg |
-|-----|----------|----------------|
-| 🔎 | 📄 | ⭐️ |
+| Huvudvy | Detaljvy |
+|--------|----------|
+| ![main](Screenshots/Mainview.png) | ![detail](Screenshots/DetailView.png) |
 
 
 
